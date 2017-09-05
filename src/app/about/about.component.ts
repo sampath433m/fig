@@ -12,7 +12,7 @@ export class AboutComponent  {
     {  'url': './assets/images/image2.JPG'},
     {  'url': './assets/images/image3.JPG'},
     {  'url': './assets/images/image4.JPG'},
-    {  'url': './assets/images/image5.png'}
+    {  'url': './assets/images/image5.JPG'}
 
   ];
 
