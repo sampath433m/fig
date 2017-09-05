@@ -9,10 +9,10 @@ export class AboutComponent  {
 
    image= [
     {  'url': './assets/images/image1.JPG'},
-    {  'url': '/assets/images/image2.JPG'},
-    {  'url': '/assets/images/image3.JPG'},
-    {  'url': '/assets/images/image4.JPG'},
-    {  'url': '/assets/images/image5.JPG'}
+    {  'url': './assets/images/image2.png'},
+    {  'url': './assets/images/image3.PNG'},
+    {  'url': './assets/images/image4.JPEG'},
+    {  'url': './assets/images/image5.jpg'}
 
   ];
 
