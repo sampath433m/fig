@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class AboutComponent  {
 
    image= [
-    {  'url': '/assets/images/image1.png'},
+    {  'url': './assets/images/image1.png'},
     {  'url': '/assets/images/image2.JPG'},
     {  'url': '/assets/images/image3.JPG'},
     {  'url': '/assets/images/image4.JPG'},
